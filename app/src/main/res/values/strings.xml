@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movie Lookup</string>
+    <string name="add_movies_to_db">Add Movies to DB</string>
+    <string name="search_movies">Search for Movies</string>
+    <string name="search_actors">Search for Actors</string>
+    <string name="search">Search</string>
+    <string name="add_to_db">Add to DB</string>
+    <string name="search_movie_name">Search Movie Names</string>
+</resources>
